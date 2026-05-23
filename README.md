@@ -8,6 +8,28 @@ Seed Tanc Inc. is an enterprise technology corporation engineering secure, scala
 
 ---
 
+## 🧱 Repository Initialization
+This repository is designed to **generate its own structure** upon cloning or setup.  
+Each placeholder file ensures that directories remain visible while protecting sensitive content.
+
+<details>
+<summary><strong>Placeholder Files</strong></summary>
+
+| Directory | Placeholder File | Purpose |
+|------------|------------------|----------|
+| `/products` | `.keep` | Maintains folder visibility for product modules |
+| `/infrastructure` | `.keep` | Holds infrastructure templates and IaC blueprints |
+| `/internal` | `.placeholder` | Marks private systems excluded by `.gitignore` |
+| `/docs` | `.keep` | Ensures documentation folder persists |
+| `/branding` | `.keep` | Stores corporate identity assets |
+| `/scripts` | `.keep` | Keeps automation scripts directory visible |
+| `/config` | `.keep` | Retains configuration templates |
+| `/tests` | `.keep` | Preserves testing framework structure |
+
+</details>
+
+---
+
 ## 📂 Repository Structure
 <details>
 <summary><strong>View Structure</strong></summary>
@@ -333,6 +355,22 @@ docs/* text
 
 ---
 
+## 🧩 Self‑Generation Logic
+<details>
+<summary><strong>Automatic Setup Instructions</strong></summary>
+
+1. Clone the repository  
+2. Run initialization script (to be added in `/scripts/init.sh`)  
+3. Script will:
+   - Create placeholder files  
+   - Verify `.gitignore` and `.gitattributes` integrity  
+   - Initialize documentation structure  
+   - Prepare environment scaffolding  
+
+</details>
+
+---
+
 ## 📞 Contact & Corporate Information
 Seed Tanc Inc.  
 Enterprise Technology Corporation  
@@ -345,3 +383,7 @@ AI • Blockchain • Distributed Systems
 - **[Generate SECURITY.md](ca://s?q=Generate_enterprise_SECURITY_md)**  
 - **[Add a CONTRIBUTING.md](ca://s?q=Generate_enterprise_contributing_md)**  
 - **[Generate architecture documentation](ca://s?q=Generate_my_business_network_architecture_markdown)**
+
+---
+
+*Last Updated: 2026-05-23 | Repository Merged & Unified*
