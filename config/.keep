@@ -1,0 +1,12 @@
+# Configuration Templates Directory
+
+This directory contains non-sensitive configuration templates and examples.
+
+## Contents
+- Environment configuration templates (.env.example)
+- Application configuration examples
+- Service configuration templates
+- Database configuration samples
+- Deployment configuration templates
+
+⚠️ Sensitive configurations (passwords, keys, tokens) are EXCLUDED by .gitignore.

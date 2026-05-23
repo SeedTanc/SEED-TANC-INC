@@ -1,0 +1,13 @@
+# Infrastructure & IaC Directory
+
+This directory holds infrastructure templates, cloud configurations, and Infrastructure-as-Code blueprints.
+
+## Contents
+- Cloud infrastructure (AWS, Azure, GCP)
+- Kubernetes configurations
+- Terraform modules
+- Docker & containerization
+- Edge computing setup
+- Blockchain node configurations
+
+All infrastructure code should follow enterprise security standards.

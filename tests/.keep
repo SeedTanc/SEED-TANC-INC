@@ -1,0 +1,14 @@
+# Testing & Quality Assurance Directory
+
+This directory contains test suites, test frameworks, and QA configurations.
+
+## Contents
+- Unit tests
+- Integration tests
+- End-to-end (E2E) tests
+- Performance tests
+- Security tests
+- Test fixtures and mocks
+- Test coverage reports
+
+All tests should follow enterprise quality standards.

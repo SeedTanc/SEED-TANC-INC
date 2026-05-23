@@ -1,0 +1,11 @@
+# Internal Systems Directory
+
+⚠️ This directory contains sensitive internal systems and is EXCLUDED from version control by .gitignore.
+
+## Contents (Not Tracked)
+- Private authentication systems
+- Internal API keys and secrets
+- Proprietary business logic
+- Private configurations
+
+This directory should NEVER be committed to the repository.

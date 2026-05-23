@@ -1,0 +1,14 @@
+# Automation & Development Scripts Directory
+
+This directory contains automation scripts, deployment tools, and development utilities.
+
+## Contents
+- Build scripts
+- Deployment automation
+- Database migration scripts
+- Testing automation
+- CI/CD helper scripts
+- Development utilities
+- System maintenance scripts
+
+All scripts should include documentation and error handling.
